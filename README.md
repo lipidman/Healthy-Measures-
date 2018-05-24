@@ -1,3 +1,4 @@
 # Healthy-Measures-
 Work required for upcoming pilots
-Per our conversation and Susanne email
+<insert the two consent forms with fields into account
+Configure Labcorp 30 panel in screening form
